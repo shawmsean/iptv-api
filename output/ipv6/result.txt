@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2026-03-03 18:24:41,https://www.freetv.top/migu/608807420.m3u8?migutoken=616bff0550349c6e67acff477cb46f9414058f2f80a6037f87e37174fab7a88ce43007f82993964b9222c5578037b6435c076ec1a3cd9712bffad24d5fb5293d9665b5fce5f6d1ec1012231552
+2026-03-05 18:24:19,https://www.freetv.top/migu/608807420.m3u8?migutoken=616bff0550349c6e67acff477cb46f9414058f2f80a6037f87e37174fab7a88ce43007f82993964b9222c5578037b6435c076ec1a3cd9712bffad24d5fb5293d9665b5fce5f6d1ec1012231552
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=616bff0550349c6e67acff477cb46f9414058f2f80a6037f87e37174fab7a88ce43007f82993964b9222c5578037b6435c076ec1a3cd9712bffad24d5fb5293d9665b5fce5f6d1ec1012231552
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=11ecfe0a296dcd532df72244565e20008b5a2e6936c05e73d9c90abe54b5bbffc942f2912e3fdd518714c4a7ad984beed028d07db3d49b8d1e21c54686ebfa8546f79a57d969866753cca722cc
-CCTV-2,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=2725923dc731f340aa761620c3dc1841866d2a5734af94919f920321144434ccb32107fea453a21d739f1acbd6dc1df1c659dfc3ed4f15502642b270cfa4c2716fe012c9b9686f4c1ca82c3cc8
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=5423237e9d331ddbd254f9b34f235d2d3a581587f12081d6f4dc2e5fd33889675377b585750675d9d08c0a7620fee257f9f2994877ebd92907417411e935c2e49fbcbe53ead412cd81dfa7dfba
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-407136188858892972.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773018913&major_anchor_level=common&sign=49b2a5b43da143cffc0b61fb762bc89c&t_id=037-2026030209151226A5C2CF88804701E66B-LfLeur
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
@@ -16,10 +15,8 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️广东频道,#genre#
@@ -42,8 +39,8 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -55,7 +52,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 
 ☘️北京频道,#genre#
-北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 
 ☘️上海频道,#genre#
 
@@ -65,7 +61,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
-江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=ee3b6643c904671f992ce193c8875e102a703bdd2d7b88f854af78bc402ca736e4d33eee2c0d605f8c209b224a0c845cf9506a6637b7797c3a6b140c2d2bbb3b2a9e2dc6658d0df0c0e3e3844360944f37&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=ce7dbb34106508181107a7e97769cb6ea0ab183c2cca87cefb117c2b068140030865947bb83ce2b275bcdd5e7ab5ae4a9c795a713c66c6f627315fd3c19ba18f3e183141836950e6ebd7833b8a9ee27d0b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=54a78b393609cf950050beea026f868d7489fa0b3d9068bbcf05dbb8a45c802b493e4157371ff39550b19933bc4f654c1a16de24ec6cdd9c9345b414d8a33517d29936d7b57d22973a30f9b7f9e8ceb3ce&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -98,6 +93,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
@@ -142,6 +138,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
@@ -157,26 +154,23 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 
 ☘️云南频道,#genre#
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-明珠台,http://r.jdshipin.com/ZQ4kN
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -188,7 +182,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎬电影频道,#genre#
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,https://o11.163189.xyz/stream/live/ccm/
-无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🎥咪咕直播,#genre#
@@ -200,9 +193,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🪁动画频道,#genre#
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
-中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
@@ -212,9 +206,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🏛经典剧场,#genre#
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
-天龙八部,https://live.ottiptv.cc/yy/1351814644
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
